@@ -38,6 +38,7 @@ Todos los archivos están en la raíz; el paquete no contiene subcarpetas:
 - `index.html`: punto de entrada.
 - `app.js`: experiencia y lógica de la simulación.
 - `styles.css`: sistema visual SBO/ATC.
+- `sbo-logo.png`: identidad oficial de SBO utilizada en el encabezado.
 - `atc-perimeter-demo.mp4`: video proporcionado por ATC.
 - `frame-*.jpg`: fotogramas para evidencias e historiales.
 - `Guion_Grabacion_OmniView_SBO_ATC.md`: recorrido sugerido para el video comercial.
